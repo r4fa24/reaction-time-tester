@@ -3,7 +3,7 @@
 A fun JavaScript mini-game that measures how fast you can react to a color change.
 
 The game waits for a random amount of time, changes color, and calculates your reaction speed in milliseconds.
-![Reaction Time Tester Screenshot](image%20.png)
+![Reaction Time Tester Screenshot](image.png)
 
 
 ## 🎮 How It Works
